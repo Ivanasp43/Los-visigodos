@@ -15,5 +15,5 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 
 [National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
 
-![Mapa asentamientos visigodos]("C:\Users\IVANA\Desktop\Visisgodos.png")
+("C:\Users\IVANA\Desktop\Visisgodos.png")
 
