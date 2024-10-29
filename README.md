@@ -1,4 +1,4 @@
-<div style="text-align: center;"><h2>LOS VISIGODOS</h2></div> 
+<h1 style="font-weight: normal;">LOS VISIGODOS</h1>
 
 
 ## Visigodos
