@@ -8,7 +8,7 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 ## Índice
 
 1. [Época](#ÉPOCA.md)
-2. [Arquitectura](#arquitectura)
+2. [Arquitectura](https://github.com/Ivanasp43/Los-visigodos/blob/main/ARQUITECTURA.md)
 3. [Obras más significativas](https://github.com/Ivanasp43/Los-visigodos/blob/main/OBRAS.md) 
 
 ## Referencia
