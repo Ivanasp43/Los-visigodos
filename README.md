@@ -1,4 +1,4 @@
-# Los-visigodos
+# Los visigodos
 
 
 ## Visigodos
@@ -7,7 +7,7 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 
 ## Índice
 
-1. [Época](#ÉPOCA.md)
+1. [Época](https://github.com/Ivanasp43/Los-visigodos/blob/main/%C3%89POCA.md)
 2. [Arquitectura](https://github.com/Ivanasp43/Los-visigodos/blob/main/ARQUITECTURA.md)
 3. [Obras más significativas](https://github.com/Ivanasp43/Los-visigodos/blob/main/OBRAS.md) 
 
