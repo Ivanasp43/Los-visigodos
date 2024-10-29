@@ -17,5 +17,5 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 
 <br>
 
-(<a href="https://imgbb.com/"><img src="https://i.ibb.co/D8wvgyg/Visisgodos.png" alt="Visisgodos" border="0"></a>)
+![](https://github.com/Ivanasp43/Los-visigodos/blob/main/IMAGENES/Visisgodos.png)
 
